@@ -12,4 +12,4 @@ Fail2Ban<br><br>
 <b>Run this command</b><br><br>
 
 <b>Debian 9 Autoscript sshvpn</b><br>
-wget https://raw.githubusercontent.com/halimawehi/deb9/master/tool/Deb9 && chmod +x Deb9 && ./Deb9
+wget https://raw.githubusercontent.com/iephdevs/deb9/master/tool/Deb9 && chmod +x Deb9 && ./Deb9
